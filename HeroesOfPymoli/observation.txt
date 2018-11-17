@@ -1,0 +1,12 @@
+ You must include a written description of three observable trends based on the data.
+ 
+ Observation 1:
+ 81.15 percentage of players are male
+ 
+ Observation 2:
+ Purchase count is high for male = 633
+ Average purchase price is higher for Other =  3.25 $
+ 
+ Observation 3:
+ Percent of Players are higher for 20-24 year age group =45.20
+ other higher percent of players are for age 15-19 and 25-29 which is 17.45 and 15.18
