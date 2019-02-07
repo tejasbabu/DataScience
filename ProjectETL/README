@@ -1,0 +1,6 @@
+## README File for ETL Project
+1.Real_acct_owenr.zip file contain all required source file to run this ETL project
+2.unzip Real_acct_owner.zip create folder Real_acct_owner at same level at all jupyter notebook file.
+3. hcad.sql file contan all sql to create database, table and views. it also contain sql to for data cleanup.
+4. ETL.docx contain documentation for project
+
